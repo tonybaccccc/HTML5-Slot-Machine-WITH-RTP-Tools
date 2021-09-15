@@ -10,3 +10,4 @@ Features:
 TODO:
 - Fix speed modifier to also remove cooldown time
 - Add a randomize seed button
+- Add customizable payouts in-game which will change the RTP
