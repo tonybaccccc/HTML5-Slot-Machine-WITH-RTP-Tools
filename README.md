@@ -7,3 +7,6 @@ Features:
 - Win lines can be won from the "right" side as well so a total of 14 Win lines
 - Tools
 
+TODO:
+- Fix speed modifier to also remove cooldown time
+- Add a randomize seed button
