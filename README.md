@@ -1,7 +1,7 @@
 # HTML5-Slot-Machine-WITH-RTP-Tools
 
 Made for fun, during my spare time. 
-Was interested in the process of creating a slot machine, and how one would manage RTP and spins to an external player.
+Was interested in the process of creating a slot machine, and how one would manage RTP.
 
 Play Here : https://tonybaccccc.github.io/HTML5-Slot-Machine-WITH-RTP-Tools/
 
